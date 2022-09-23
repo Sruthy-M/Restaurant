@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-
+import Navbar from './Components/Navbar';
 import Header from './Components/Header';
 import Products from './Components/Products';
 import About from './Components/About';
@@ -32,7 +32,7 @@ function App() {
         />
       ) : (
         <>
-        { /* <Navbar /> */}
+         <Navbar />
           <Header />
           <Products />
           <About />
