@@ -7,7 +7,7 @@ return(
 <input type='text' placeholder="Full Name" />
 <input type='email' placeholder='Type Your E-Mail'/>
 <textarea placeholder='Write Here .....'></textarea>
-<input type='submit' value='80OK'/>
+<input type='submit' value='B0OK'/>
 </form>
 </div>
 )
